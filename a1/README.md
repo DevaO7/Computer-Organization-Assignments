@@ -60,4 +60,4 @@ The other alternative is to have a reduced hardware with a single register to ho
 
 ### Testing the Verilog Code
 
-The seq_mult.v can be tested
+The seq_mult.v can be tested by running the run.sh file
